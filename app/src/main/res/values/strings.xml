@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">warikanAP</string>
+    <string name="ohitorisama">おひとり様おいくら？？</string>
+    <string name="ninzuulabel">人数</string>
+    <string name="goukeilabel">合計金額</string>
+    <string name="keisan">計算</string>
+</resources>
